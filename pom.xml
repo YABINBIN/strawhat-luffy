@@ -18,6 +18,8 @@
     <module>strawhat-luffy-model</module>
     <module>strawhat-luffy-midleware</module>
     <module>strawhat-luffy-base</module>
+    <module>strawhat-luffy-config</module>
+    <module>strawhat-luffy-user</module>
   </modules>
   <name>strawhat.luffy</name>
   <url>http://www.example.com</url>
