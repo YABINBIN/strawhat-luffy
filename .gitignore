@@ -1,0 +1,7 @@
+#file
+*.iml
+*test*
+#folder
+*/target
+*/test
+.idea
