@@ -28,7 +28,6 @@ public class EtaReaml extends AuthorizingRealm {
     }
 
     /**
-     *
      * 用户授权
      * @param authenticationToken
      * @return
